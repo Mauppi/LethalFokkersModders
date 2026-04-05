@@ -4,16 +4,16 @@
     {
       "IdentityId": 0,
       "IdentityName": "slop",
-      "LastImportantMemory": "Said: --I'm here!--",
+      "LastImportantMemory": "Said: Watch where that floorboard goes.",
       "Memories": [
-        "Slop warned crewmate about a tripping hazard while approaching from behind.",
-        "Said: Easy there—don't trip on that loose floorboard!",
-        "Heard fokker say: Got it—let's get this over with.",
-        "Said: Watch where they're looking—floorboards talk when it's this quiet.",
-        "Heard fokker say: Found him—just ahead of that vent.",
-        "Said: Lost you—where’d ya go?",
-        "Said: --Lost you--",
-        "Said: --I'm here!--"
+        "Said: Watch it—maiden's not a decoration.",
+        "Heard fokker say: Easy there—don't trip on that loose floorboard!",
+        "Following player after a close call with machinery and floorboards.",
+        "Said: -I'm here-",
+        "Heard fokker say: --You're close again.--",
+        "Player is close again after a fall. Stood by to catch them or warn about machinery nearby.",
+        "Player fell close to machinery; warned them off while readying a grab.",
+        "Said: Watch where that floorboard goes."
       ]
     },
     {
@@ -21,14 +21,14 @@
       "IdentityName": "fokker",
       "LastImportantMemory": "Said: --You're close again.--",
       "Memories": [
-        "Heard slop say: Hey there—just checking in from behind.",
-        "Said: Watch where you're stepping—floor's giving way.",
-        "Heard slop say: Easy there—don't trip on that loose floorboard!",
-        "Said: Got it—let's get this over with.",
-        "Heard slop say: Watch where they're looking—floorboards talk when it's this quiet.",
-        "Said: Found him—just ahead of that vent.",
         "Said: I saw you—keep walking.",
-        "Said: --You're close again.--"
+        "Said: --You're close again.--",
+        "fokker remembers calling out bad plans early and prefers efficient, no-nonsense teamwork.",
+        "Heard slop say: Watch it—maiden's not a decoration.",
+        "Said: Easy there—don't trip on that loose floorboard!",
+        "Heard slop say: -I'm here-",
+        "Said: --You're close again.--",
+        "Heard slop say: Watch where that floorboard goes."
       ]
     }
   ]

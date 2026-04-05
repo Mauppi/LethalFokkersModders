@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Angry British Bug - startup message and audio")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.6.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.6.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.6.0+f4b7cce8f9a9cbf448a36dec8329341059b94681")]
 [assembly: System.Reflection.AssemblyProductAttribute("AngryBritishBug")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AngryBritishBug")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.6.0.0")]
