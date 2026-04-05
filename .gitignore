@@ -1,0 +1,13 @@
+# Lethal company non mod gitignore
+
+Lethal Company.exe
+Lethal Company_Data/
+MonoBleedingEdge/
+Mirage/
+.thunderstoremm
+Lethal Company.sln
+mods.yml
+nvngx_dlss.dll
+NVUnityPlugin.dll
+UnityCrashHandler64.exe
+UnityPlayer.dll

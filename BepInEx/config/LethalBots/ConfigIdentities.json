@@ -1,0 +1,48 @@
+{
+  "__commentExample": [
+    {
+      "__comment_name": "the name",
+      "__comment_suitID": "the id of the suit (if you don't know keep 0), if a mod for a suit is uninstalled, it will be set to 0",
+      "__comment_suitConfigOption": "0 Fixed (with the suit id set above), 1 random",
+      "__comment_defaultAIState": "the default state of the given value: 0 Dynamic, 1 FollowPlayer, 2 SearchForScrap, 3 ShipDuty, 4 TransferLoot",
+      "__comment_voiceFolder": "the name of the folder in pathToDllOfModInstalled/Audio/Voices",
+      "__comment_volume": "volume (decimal like 0.65, 1.4, etc)",
+      "__comment_voicePitch": "the pitch of the voice. Try to stay between 0.8 and 1.2, after that it's too much altered",
+      "__comment_loadoutName": "the name of the loadout for the bot to use. Must be a valid loadout from ConfigLoadouts.json, else default of Empty is given",
+      "__comment_groupID": "the internal id of a group used by bots when deciding who to automatically group with. Set this to -1 to disable",
+      "__comment_personalityPrompt": "optional custom personality prompt used by LM Studio for this specific bot",
+      "__comment_memorySeed": "optional long-term memory seed used to make this bot feel independent over a session",
+      "__comment_elevenLabsVoiceId": "optional ElevenLabs voice id override for this bot when TTS is enabled"
+    }
+  ],
+  "configIdentities": [
+    {
+      "name": "slop",
+      "suitID": 0,
+      "suitConfigOption": 1,
+      "defaultAIState": 0,
+      "voiceFolder": "Mathew_kelly",
+      "volume": 0.3,
+      "voicePitch": 1.0,
+      "loadoutName": "Empty",
+      "groupID": -1,
+      "personalityPrompt": "You are slop. Keep a scrappy, blunt, mildly chaotic personality while still being cooperative with the crew.",
+      "memorySeed": "slop remembers being the first one to volunteer for bad ideas and usually acts like it worked out.",
+      "elevenLabsVoiceId": "X3nzM5DJcsyN3YisGmIv"
+    },
+    {
+      "name": "fokker",
+      "suitID": 0,
+      "suitConfigOption": 1,
+      "defaultAIState": 0,
+      "voiceFolder": "Mathew_kelly",
+      "volume": 0.3,
+      "voicePitch": 0.92,
+      "loadoutName": "Empty",
+      "groupID": -1,
+      "personalityPrompt": "You are fokker. Sound sharper and more skeptical than other bots, but still practical and useful.",
+      "memorySeed": "fokker remembers calling out bad plans early and prefers efficient, no-nonsense teamwork.",
+      "elevenLabsVoiceId": "MKlLqCItoCkvdhrxgtLv"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "SaveFileName": "LCSaveFile1",
+  "BotMemories": [
+    {
+      "IdentityId": 0,
+      "IdentityName": "slop",
+      "LastImportantMemory": "Said: --I'm here!--",
+      "Memories": [
+        "Slop warned crewmate about a tripping hazard while approaching from behind.",
+        "Said: Easy there—don't trip on that loose floorboard!",
+        "Heard fokker say: Got it—let's get this over with.",
+        "Said: Watch where they're looking—floorboards talk when it's this quiet.",
+        "Heard fokker say: Found him—just ahead of that vent.",
+        "Said: Lost you—where’d ya go?",
+        "Said: --Lost you--",
+        "Said: --I'm here!--"
+      ]
+    },
+    {
+      "IdentityId": 1,
+      "IdentityName": "fokker",
+      "LastImportantMemory": "Said: --You're close again.--",
+      "Memories": [
+        "Heard slop say: Hey there—just checking in from behind.",
+        "Said: Watch where you're stepping—floor's giving way.",
+        "Heard slop say: Easy there—don't trip on that loose floorboard!",
+        "Said: Got it—let's get this over with.",
+        "Heard slop say: Watch where they're looking—floorboards talk when it's this quiet.",
+        "Said: Found him—just ahead of that vent.",
+        "Said: I saw you—keep walking.",
+        "Said: --You're close again.--"
+      ]
+    }
+  ]
+}
